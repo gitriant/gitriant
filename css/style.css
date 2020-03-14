@@ -43,9 +43,9 @@ header {
 .header__logo {
   height: 3.5rem;
 }
-.header__logo:hover {
+/* .header__logo:hover {
   animation: moveInRight 1s ease-out;
-}
+} */
 .header__text-box {
   position: absolute;
   top: 40%;
